@@ -1,0 +1,10 @@
+simpletransformers
+bert-extractive-summarizer==0.8.1
+scikit-learn==0.24.2
+nltk==3.6.2
+numpy==1.21.0
+pandas==1.2.5
+torch==1.9.0
+pymysql
+sshtunnel
+pymongo
