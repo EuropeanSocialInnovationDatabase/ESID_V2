@@ -16,14 +16,14 @@ import warnings
 warnings.filterwarnings("ignore")
 
 class DataCollector:
-    # SERVER_IP = "130.159.136.15"
+    # SERVER_IP = "*.*.*.*"
     MONGO_DB = "ESID"
-    # SERVER_USERNAME = "wesam"
-    # SERVER_PASSWORD = "Hce_06w"
+    # SERVER_USERNAME = "****"
+    # SERVER_PASSWORD = "****"
 
-    # MYSQL_DB = "EDSI_WESAM"
-    # MYSQL_USER = "wesam"
-    # MYSQL_PASS = "Hce_06wesam"
+    # MYSQL_DB = "*****"
+    # MYSQL_USER = "****"
+    # MYSQL_PASS = "*****"
 
     def __init__(self):
         # self.mongodb_ssh_tunnel_server = None
