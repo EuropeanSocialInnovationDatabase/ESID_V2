@@ -35,6 +35,10 @@ More information on ESID and its methodology can be found at https://rcf.risis2.
 A policy brief on the analysis shown in this tool can be found at https://zenodo.org/record/5727109/#.Yjs-vurP02w
 
 
+Related published work:
+MILOSEVIC, N., GOK, A. & NENADIC, G. Classification of Intangible Social Innovation Concepts. In: SILBERZTEIN, M., ATIGUI, F., KORNYSHOVA, E., MÉTAIS, E. & MEZIANE, F., eds. Natural Language Processing and Information Systems, 2018// 2018 Cham. Springer International Publishing, 407-418.
+MILOSEVIC, N., GOK, A. & NENADIC, G. Classification of Intangible Social Innovation Concepts. In: SILBERZTEIN, M., ATIGUI, F., KORNYSHOVA, E., MÉTAIS, E. & MEZIANE, F., eds. Natural Language Processing and Information Systems, 2018// 2018 Cham. Springer International Publishing, 407-418.
+
 
 
 
