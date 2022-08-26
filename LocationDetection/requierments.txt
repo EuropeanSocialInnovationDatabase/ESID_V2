@@ -1,0 +1,11 @@
+networkx==2.6.3
+tldextract
+flair==0.10
+nltk==3.7
+scikit-learn==0.22.1
+geopy==2.2.0
+pandas
+torch==1.11.0
+pymongo
+sshtunnel
+pymysql
